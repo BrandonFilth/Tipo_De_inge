@@ -20,7 +20,6 @@ public class Main {
 	String[] reto = {"Continuar con el Test","¿Es todo lo que tienes?"};
 	String[] reto2 = {"Ya ahora si amonos","Echate otro mejor"};
 	String[] reto3 = {"Continuar con el Test","Estuvo bueno mi pana"}; 
-	String[] Tara = {"Yo tambien ","Ya sabia","Yo no"}; 
 	
 	boolean seguir = false;
 	int  puntuacion = 200, aleatorio, piola,a,b,c;
